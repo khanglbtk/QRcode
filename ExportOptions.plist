@@ -9,11 +9,11 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://www.dropbox.com/s/z82teyp67vbm5vx/evn.ipa</string>
+		<string>https://khanglbtk.github.io/QRcode/evn.ipa</string>
 		<key>displayImageURL</key>
-		<string>https://www.dropbox.com/s/xlyy4dpty038pcy/image.png</string>
+		<string>https://khanglbtk.github.io/QRcode/image.png</string>
 		<key>fullSizeImageURL</key>
-		<string>https://www.dropbox.com/s/xlyy4dpty038pcy/image.png</string>
+		<string>https://khanglbtk.github.io/QRcode/image.png</string>
 	</dict>
 	<key>method</key>
 	<string>enterprise</string>
